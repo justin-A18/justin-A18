@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300">
+</div>
+
+### Hi👋, I'm Justin
 
 <!--
 **justin-A18/justin-A18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
