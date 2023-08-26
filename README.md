@@ -3,24 +3,24 @@
   <h1>Hi👋, I'm Justin</h1>
   👋 ¡Hola, soy Justin!
 
-📚 Estudiante de Ingeniería de Sistemas apasionado por el mundo del desarrollo web.
+📚 Estudiante de Ingeniería de Sistemas apasionado por el mundo del desarrollo web. <br>
 
-💻 Área de Interés: Desarrollo Web
-🚀 Tecnologías Favoritas: JavaScript, React
-🌐 Explorando el mundo del front-end y creando experiencias web cautivadoras.
+💻 Área de Interés: Desarrollo Web<br>
+🚀 Tecnologías Favoritas: JavaScript, React<br>
+🌐 Explorando el mundo del front-end y creando experiencias web cautivadoras.<br><br>
 
-🎓 Actualmente cursando mi carrera en Ingeniería de Sistemas.
-🔍 Siempre en busca de oportunidades para aprender y crecer en el campo de la tecnología.
+🎓 Actualmente cursando mi carrera en Ingeniería de Sistemas.<br>
+🔍 Siempre en busca de oportunidades para aprender y crecer en el campo de la tecnología<br><br>
 
-⚙️ Habilidades: HTML, CSS, JavaScript, React.
-🔧 Experimentando con la construcción de interfaces elegantes y funcionales.
+⚙️ Habilidades: HTML, CSS, JavaScript, React.<br>
+🔧 Experimentando con la construcción de interfaces elegantes y funcionales.<br><br>
 
-🌱 Comprometido con el aprendizaje continuo y la contribución a proyectos de código abierto.
-🤝 Abierto a colaboraciones y nuevas conexiones en el mundo tech.
+🌱 Comprometido con el aprendizaje continuo y la contribución a proyectos de código abierto.<br>
+🤝 Abierto a colaboraciones y nuevas conexiones en el mundo tech.<br><br>
 
-🏞️ En mi tiempo libre, disfruto de explorar nuevos senderos y encontrar soluciones creativas.
+🏞️ En mi tiempo libre, disfruto de explorar nuevos senderos y encontrar soluciones creativas.<br><br>
 
-¡Conéctate conmigo y exploremos juntos el emocionante mundo del desarrollo web!
+¡Conéctate conmigo y exploremos juntos el emocionante mundo del desarrollo web!<br><br>
 
 📫 <img src="https://img.shields.io/twitter/follow/dev_jus_js?color=blue&logo=twitter&style=for-the-badge">
   <img src="https://img.shields.io/twitter/follow/justin?color=blue&logo=facebook&style=for-the-badge">
