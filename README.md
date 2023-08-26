@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300">
   <h1>Hi👋, I'm Justin</h1>
-  👋 ¡Hola, soy Justin!
 
 📚 Estudiante de Ingeniería de Sistemas apasionado por el mundo del desarrollo web. <br>
 
