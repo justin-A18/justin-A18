@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/twitter/follow/justin?color=blue&logo=facebook&style=for-the-badge">
   
 </div>
-  <div>
+  <div align="center">
     <img src="https://www.svgrepo.com/show/349402/html5.svg" width="50" height="50">
     <img src="https://www.svgrepo.com/show/373535/css.svg" width="50" height="50">
     <img src="https://www.svgrepo.com/show/452045/js.svg" width="50" height="50">
