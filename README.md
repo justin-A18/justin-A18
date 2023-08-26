@@ -28,7 +28,6 @@
 </div>
 
 <div>
-  <h2>about me</h2>
   <ul>
     <li>how to get to me justin.hv08@gmail.com</li>
     <li>I am currently learning <b>JavaScrip, PHP, SQL</b></li>
