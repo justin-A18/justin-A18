@@ -22,7 +22,7 @@
 ¡Conéctate conmigo y exploremos juntos el emocionante mundo del desarrollo web!<br><br>
 
 <img src="https://img.shields.io/twitter/follow/dev_jus_js?color=blue&logo=twitter&style=for-the-badge">
-  <img src="https://img.shields.io/twitter/follow/justin?color=blue&logo=facebook&style=for-the-badge"> <br>
+  <img src="https://img.shields.io/twitter/follow/justin?color=blue&logo=facebook&style=for-the-badge"> <br><br>
   
 </div>
   <div align="center">
