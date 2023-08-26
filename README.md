@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300">
   <h1>Hi👋, I'm Justin</h1>
-  <h4>passionate about web development, very good teamwork, good communication, I like to learn new things</h3>
   <img src="https://img.shields.io/twitter/follow/dev_jus_js?color=blue&logo=twitter&style=for-the-badge">
   <img src="https://img.shields.io/twitter/follow/justin?color=blue&logo=facebook&style=for-the-badge">
   
