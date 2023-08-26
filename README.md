@@ -11,7 +11,7 @@
 🎓 Actualmente cursando mi carrera en Ingeniería de Sistemas.<br>
 🔍 Siempre en busca de oportunidades para aprender y crecer en el campo de la tecnología<br><br>
 
-⚙️ Habilidades: HTML, CSS, JavaScript, React, Sass, Tailwind<br>
+⚙️ Habilidades: HTML, CSS, JavaScript, React, Sass, Tailwind.<br>
 🔧 Experimentando con la construcción de interfaces elegantes y funcionales.<br><br>
 
 🌱 Comprometido con el aprendizaje continuo y la contribución a proyectos de código abierto.<br>
@@ -22,7 +22,7 @@
 ¡Conéctate conmigo y exploremos juntos el emocionante mundo del desarrollo web!<br><br>
 
 <img src="https://img.shields.io/twitter/follow/dev_jus_js?color=blue&logo=twitter&style=for-the-badge">
-  <img src="https://img.shields.io/twitter/follow/justin?color=blue&logo=facebook&style=for-the-badge">
+  <img src="https://img.shields.io/twitter/follow/justin?color=blue&logo=facebook&style=for-the-badge"> <br>
   
 </div>
   <div align="center">
