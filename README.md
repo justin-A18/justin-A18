@@ -11,7 +11,7 @@
 🎓 Actualmente cursando mi carrera en Ingeniería de Sistemas.<br>
 🔍 Siempre en busca de oportunidades para aprender y crecer en el campo de la tecnología<br><br>
 
-⚙️ Habilidades: HTML, CSS, JavaScript, React.<br>
+⚙️ Habilidades: HTML, CSS, JavaScript, React, Sass, Tailwind<br>
 🔧 Experimentando con la construcción de interfaces elegantes y funcionales.<br><br>
 
 🌱 Comprometido con el aprendizaje continuo y la contribución a proyectos de código abierto.<br>
