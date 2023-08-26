@@ -26,15 +26,8 @@
   <img src="https://img.shields.io/twitter/follow/justin?color=blue&logo=facebook&style=for-the-badge">
   
 </div>
-
 <div>
-  <ul>
-    <li>how to get to me justin.hv08@gmail.com</li>
-    <li>I am currently learning <b>JavaScrip, PHP, SQL</b></li>
-  </ul>
-</div>
-<div>
-  <h1>Lenguages and tools</h1>
+  <h1>Lenguajes y herramientas</h1>
   <div>
     <img src="https://www.svgrepo.com/show/349402/html5.svg" width="50" height="50">
     <img src="https://www.svgrepo.com/show/373535/css.svg" width="50" height="50">
