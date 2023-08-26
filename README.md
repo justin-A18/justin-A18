@@ -17,9 +17,11 @@
 <div>
   <h1>Lenguages and tools</h1>
   <div>
-    <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" width="60">
-    <img src="https://www.svgrepo.com/show/373535/css.svg" width="50">
-    <img src="https://www.svgrepo.com/show/354310/sass.svg" width="50">
+    <img src="https://www.svgrepo.com/show/349402/html5.svg" width="50" height="50">
+    <img src="https://www.svgrepo.com/show/373535/css.svg" width="50" height="50">
+    <img src="https://www.svgrepo.com/show/452045/js.svg" width="50" height="50">
+    <img src="https://ph-files.imgix.net/2e26f07f-e5e5-411e-ba1e-e92c4083bd92.png?auto=format&fit=crop" width="50" height="50">
+    <img src="https://www.svgrepo.com/show/354310/sass.svg" width="50" height="50">
   </div>
 </div>
 <!--
