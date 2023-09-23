@@ -36,5 +36,6 @@ Welcome to my Github page! I'm Justin and I'm currently studying Systems Enginee
 <br />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 <code><img width="5%"  src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=avif&w=256"></code>
 </p>
