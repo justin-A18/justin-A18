@@ -5,9 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/dev-justinh)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:justin.hv08@gmail.com)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+Welcome to my Github page! I'm Justin and I'm currently studying Systems Engineering!
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<iframe src="https://giphy.com/embed/3o7btMCltyDvSgF92E" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/crunchyroll-simulcast-3o7btMCltyDvSgF92E">via GIPHY</a></p>
 
 
 #### 🌱 Things I am currently working on: 
