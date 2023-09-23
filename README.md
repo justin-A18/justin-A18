@@ -10,7 +10,6 @@ Welcome to my Github page! I'm Justin and I'm currently studying Systems Enginee
 <img align="right" src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" alt="animegirl" width="50%" height="auto">
 
 
-#### 🌱 Things I am currently working on: 
 #### 🌱 Things I'm currently working on:
 - Finish my Computer Engineering degree.
 - Take online courses on data science and machine learning.
