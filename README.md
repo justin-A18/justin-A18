@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I'm Justin and I'm currently studying Systems Engineering!
 
-<img align="right" src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" alt="animegirl" width="50%" height="auto">
+<img align="right" src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" alt="animegirl" width="50%" height="auto">
 
 
 #### 🌱 Things I'm currently working on:
@@ -35,5 +35,6 @@ Welcome to my Github page! I'm Justin and I'm currently studying Systems Enginee
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <br />
 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img width="5%"  src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=avif&w=256"></code>
 </p>
