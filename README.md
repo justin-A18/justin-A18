@@ -24,7 +24,7 @@ Welcome to my Github page! I'm Justin and I'm currently studying Systems Enginee
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=justin-A18&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=justin-A18&show_icons=true&hide_border=true&theme=dracula" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
@@ -38,5 +38,3 @@ Welcome to my Github page! I'm Justin and I'm currently studying Systems Enginee
 
 <code><img width="5%"  src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=avif&w=256"></code>
 </p>
-
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
