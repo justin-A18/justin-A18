@@ -14,14 +14,14 @@ Welcome to my Github page! I'm Justin and I'm currently studying Systems Enginee
 - Finish my Computer Engineering degree.
 - Take online courses on data science and machine learning.
 
-#### :muscle: Things I'm challenging myself with:
+#### 💪 Things I'm challenging myself with:
 - Get up earlier to make the most of the day.
 - Code at least 4 hours a day.
 - Exercise 3 days a week.
 - Learn something new every day.
 - Read 30 minutes daily
 
-#### :computer: Programming languages and tools: 
+#### 💻 Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=justin-A18&show_icons=true&hide_border=true&theme=dracula" />
 
