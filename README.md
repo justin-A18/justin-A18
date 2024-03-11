@@ -23,19 +23,10 @@ Welcome to my Github page! I'm Justin and I'm currently studying Systems Enginee
 
 #### 💻 Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=justin-A18&show_icons=true&hide_border=true&theme=dracula" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=justin-A18&show_icons=true&hide_border=true&theme=dracula" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-<br />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<br />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-<code><img width="5%"  src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=avif&w=256"></code>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,sass,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,java)](https://skillicons.dev)
 </p>
