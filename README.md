@@ -5,7 +5,7 @@
     
 ## Skills
 
-![](https://skillicons.dev/icons?i=react,typescript,javascript,redux,vite,nodejs,express,nextjs,jest,md,bash,java)
-![](https://skillicons.dev/icons?i=git,mongodb,firebase,supabase,html,css,sass,tailwind,materialui,astro,linux,powershell,figma)
+![](https://skillicons.dev/icons?i=react,typescript,javascript,redux,vite,nodejs,express,nextjs,jest,md,bash,java,figma)
+![](https://skillicons.dev/icons?i=git,mongodb,firebase,supabase,html,css,sass,tailwind,materialui,astro,linux,powershell)
 
 <img src="https://github-readme-stats.vercel.app/api?username=justin-A18&show_icons=true&theme=radical"/>
