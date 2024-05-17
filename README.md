@@ -8,5 +8,5 @@
 ## Skills
 
 ![](https://skillicons.dev/icons?i=react,typescript,javascript,redux,vite,nodejs,express,nextjs,jest,md,bash,java)
-![](https://skillicons.dev/icons?i=git,mongodb,firebase,supabase,html,css,sass,tailwind,materialui,astro,linux,powershell)
+![](https://skillicons.dev/icons?i=git,mongodb,firebase,supabase,html,css,sass,tailwind,materialui,astro,linux,powershell,figma)
 
