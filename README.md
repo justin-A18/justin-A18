@@ -1,14 +1,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sofidevo&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" /></p>
-<h1 align="center">Hi 💛, I'm Justin Huertas</h1>
+<h1 align="center">Hi 👋, I'm Justin Huertas</h1>
 <h3 align="center">HTML, CSS, TypeScript, React, Astro, Nodejs, Express</h3>
   <br>
-  
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/justin-A18)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/dev-justinh)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:justin.hv08@gmail.com)
-
+    
 ## Skills
 
 ![](https://skillicons.dev/icons?i=react,typescript,javascript,redux,vite,nodejs,express,nextjs,jest,md,bash,java)
 ![](https://skillicons.dev/icons?i=git,mongodb,firebase,supabase,html,css,sass,tailwind,materialui,astro,linux,powershell,figma)
 
+<img src="https://github-readme-stats.vercel.app/api?username=justin-A18&show_icons=true&theme=radical"/>
