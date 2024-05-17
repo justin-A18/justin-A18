@@ -1,5 +1,5 @@
-### Hi there 👋 
-### This is Justin Huertas!
+# Hi there 👋 
+## This is Justin Huertas!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/justin-A18)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/dev-justinh)
@@ -20,13 +20,9 @@ Welcome to my Github page! I'm Justin and I'm currently studying Systems Enginee
 - Exercise 3 days a week.
 - Learn something new every day.
 - Read 30 minutes daily
+  
+## Skills
 
-#### 💻 Programming languages and tools: 
-<p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=justin-A18&show_icons=true&hide_border=true&theme=dracula" />
+![](https://skillicons.dev/icons?i=react,typescript,javascript,redux,vite,nodejs,express,nextjs,jest,md,bash,java)
+![](https://skillicons.dev/icons?i=git,mongodb,firebase,supabase,html,css,sass,tailwind,materialui,astro,linux,powershell)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ts,react,jest)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind,sass,figma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,linux,java)](https://skillicons.dev)
-</p>
