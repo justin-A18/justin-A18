@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sofidevo&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=justin-A18&label=Profile%20views&color=0e75b6&style=flat" alt="justin-A18" /></p>
 <h1 align="center">Hi 👋, I'm Justin Huertas</h1>
 <h3 align="center">HTML, CSS, TypeScript, React, Astro, Nodejs, Express</h3>
   <br>
