@@ -8,7 +8,7 @@
 - 🚀 Aprendiendo Backend con NestJS<br>   
 - 💛 JavaScript Lover, pero prefiero TypeScript por su tipado fuerte<br>  
 
-![Banner de Justin](./banner.png)
+![Banner de Justin](/banner.png)
 
 ## 💻 Tecnologias
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
