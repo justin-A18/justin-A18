@@ -5,7 +5,7 @@
 
 [![banner-Linkedin.jpg](https://i.postimg.cc/h4z6RkRz/banner-Linkedin.jpg)](https://postimg.cc/4nGBzFds)
 
-Soy Justin, frontend developer apasionado por crear interfaces atractivas y funcionales.
+Hola, soy Justin, frontend developer apasionado por crear interfaces atractivas y funcionales.
 - 👨‍💻 Estudiante de Ingeniería de Sistemas<br>  
 - 🎨 Apasionado por el diseño y desarrollo web<br>  
 - 🐧 Entusiasta de Linux<br> 
