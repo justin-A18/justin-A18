@@ -1,9 +1,14 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hola, Soy Justin!
-👩🏻‍🎓 Estudiante de ing. de sistemas<br/>
-🎨 Me gusta el diseño y desarrollo web<br/>
-💭 Actualmente ando aprendiendo backend con nest js<br/>
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFveXUyeGJtcjg2d213MjR1ZHh0Mm5wZnEzMHNjdzl3N3Y5MmVkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vP5gXvSXJ2olG/giphy.gif" width="100" height="100" alt="lain" style="border-radius: 50%;object-fit: cover"> Bienvenid@ al GitHub de Justin
+
+- 👨‍💻 Estudiante de Ingeniería de Sistemas<br>  
+- 🎨 Apasionado por el diseño y desarrollo web<br>  
+- 🐧 Entusiasta de Linux<br> 
+- 🚀 Aprendiendo Backend con NestJS<br>   
+- 💛 JavaScript Lover, pero prefiero TypeScript por su tipado fuerte<br>  
+
+![Banner de Justin](./assets/banner-Linkedin.png)
 
 ## 💻 Tecnologias
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
