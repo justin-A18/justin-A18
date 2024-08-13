@@ -9,8 +9,7 @@
 
 # @justinDev - [Justin.Dev](https://portafolio-justin.vercel.app/)
 
-[![banner-Linkedin.jpg](https://i.postimg.cc/h4z6RkRz/banner-Linkedin.jpg)](https://postimg.cc/4nGBzFds)
-
+[![banner-Linkedin-1.jpg](https://i.postimg.cc/wMwhYdn3/banner-Linkedin-1.jpg)](https://postimg.cc/sGZB5bjR)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dev-justinh)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justin-A18)
