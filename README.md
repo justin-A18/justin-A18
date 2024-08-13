@@ -50,5 +50,5 @@ Hola, soy Justin, frontend developer apasionado por crear interfaces atractivas 
 
 ## Estadisticas del repositorio
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Status Justin](https://github-readme-stats.vercel.app/api?username=justin-A18&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![Status Justin](https://github-readme-stats.vercel.app/api?username=justin-A18&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-A18&layout=compact&theme=radical)
