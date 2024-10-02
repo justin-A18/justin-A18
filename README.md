@@ -22,7 +22,7 @@ Hola, soy Justin, frontend developer apasionado por crear interfaces atractivas 
 - 🎨 Apasionado por el diseño y desarrollo web<br>  
 - 🐧 Entusiasta de Linux<br> 
 - 🚀 Aprendiendo Backend con NestJS<br>   
-- 💛 JavaScript Lover, pero prefiero TypeScript por su tipado fuerte<br>  
+- 💛 JavaScript Lover <br>  
 
 ## 💻 Tecnologias
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
